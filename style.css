@@ -1,0 +1,32 @@
+*{
+ font-family: Arial, Helvetica, sans-serif;
+ margin: 30px;}
+
+#container{ 
+ width: 850px;
+ margin: 0 auto;
+ padding: 10px;
+ background-color: rgb(232, 219, 203);
+
+}
+p{
+font-size: 9px; 
+}
+
+li{margin: 3px;}
+
+table{
+margin: 10px 80px; 
+width: 650px; 
+border: 1px solid #212121;
+background-color: rgb(211, 224, 220);
+}
+
+td{ border: 1px solid #7a4a4a;}
+
+img{
+ margin:0px;
+ width: 45px;
+ height: 50px;}
+
+
